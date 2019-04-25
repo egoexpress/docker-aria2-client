@@ -10,7 +10,7 @@ Run the setup from within the directory with
 
 You can pass additional parameters, e.g. the URL of the file aria2 should download.
 
-    $ docker-compose run --rm app https://www.google.com/                                                                                                                                   !5385
+    $ docker-compose run --rm app https://www.google.com/
 
     04/25 08:02:49 [NOTICE] Downloading 1 item(s)
     04/25 08:02:49 [NOTICE] Download complete: /downloads/index.html
